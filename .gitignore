@@ -1,0 +1,23 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.pdf
+*.dvi
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Temporary files
+*~
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Build directories
+build/
+out/
